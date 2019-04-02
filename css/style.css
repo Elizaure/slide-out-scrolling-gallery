@@ -25,7 +25,7 @@ body {
 	font-family: 'Montserrat';
 }
 .header i.fa, .footer i.fa {
-  font-size: 4em;
+  font-size: 3em;
 }
 .header .bounce, .footer .bounce {
   -webkit-animation-name: bounce;
