@@ -20,9 +20,9 @@ body {
 }
 .header h1, .footer h1 {
   font-size: 4em;
-  font-weight: 300;
 	line-height: 1.2em;
 	font-family: 'Montserrat';
+	font-weight: normal;
 }
 .header i.fa, .footer i.fa {
   font-size: 3em;
